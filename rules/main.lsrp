@@ -55,3 +55,266 @@ Například:{NEWLINE}
 {TAB}{POINT} Nevytháhnete zbraň a nezačnete na něj střílet{NEWLINE}
 {NEWLINE}
 Pokud se někde střílí, neznámená to automaticky, že tam půjdete, naopak, budete se snažit tomu místu vyhýbat, pokud se vás to netýká.
+
+# FearRP
+Jedná se o hraní strachu v situacích, kde vám může být nějakým ublíženo. {NEWLINE}
+{NEWLINE}
+
+{TAB}#Dog FearRP
+{TAB}Jestli nejste majitel psa, nebo s ním nemáte už nějakou dlouhodobou interakci, kde ho znáte, tak byste z něho měli mít strach, že by vás mohl nějakým způsobem pokousat, toto pravidlo platí zejména u K-9.{NEWLINE}
+{NEWLINE}
+
+{TAB}#Jail FearRP
+{TAB}Musíte rpit strach z toho, že vás pošlou na dlouhou dobu do vězení.{NEWLINE}
+Například:{NEWLINE}
+{TAB}{POINT}_15 let je opravdu hodně velká doba a nesmíte to brát tak, že je to jen pár minut._{NEWLINE}
+{NEWLINE}
+
+{TAB}#Job FearRP
+{TAB}Musíte rpit strach z toho, že pokud porušíte nějaká interní pravidla nebo kodex ve své práci, tak že o tu práci můžete přijít.{NEWLINE}
+Například:{NEWLINE}
+{TAB}{POINT}_V přijímání do práce máte jasně nařízeno, že musíte mít čistý trestní rejstřík, tudíž abyste si práci udrželi, tak byste měli rpit tak, abyste se vyhnuli porušení zákonů na úrovni například odnětí svobody apod._{NEWLINE}
+{NEWLINE}
+    
+#VDM - Vehicle Deathmach
+Bezdůvodné vrážení do hráčů, aut a objektů.{NEWLINE}
+Auto lze použít jako zbraň pouze v případě, že vám jde o život, nebo pokud po vás/vašemu příteli někdo střílí.{NEWLINE}
+{NEWLINE}
+
+#KOS - Kill On Sight
+Bezdůvodné zabití nějakého hráče, bez dostatečné předešlé RP akce. {NEWLINE}
+{NEWLINE}
+
+#RDM - Random Deathmach
+Bezdůvodné útočení na jiné hráče/ničení hráčům majetek. (Platí to i pro střelbu){NEWLINE}
+Zabití bez opodstatněného RP důvodu.{NEWLINE}
+Když vás někdo praští/urazí, není to důvod ho zabít.{NEWLINE}
+{NEWLINE}
+
+#VK - Vehicle Kill
+Trvalé poškození vozidla (vybouchnutí, utopení etc.){NEWLINE}
+{TAB}Rozdělujeme na 2 způsoby:{NEWLINE}
+{TAB}{BULLET}Situační {NEWLINE}
+{TAB}Jedná se o situaci, když je rozbito vozidlo takovým způsobem, že je nemožná oprava.{NEWLINE}
+{TAB}{POINT}Je potřeba si napsat report/ založit ticket a doložit klip z celé situace.{NEWLINE}
+{TAB}{BULLET}Klasické (cílené) VK{NEWLINE}
+{TAB}Jedná se o VK, které je cílené na nějaké vozidlo hráče, musí být předem schváleno členem Admin Teamu.{NEWLINE}
+{TAB}Do ticketu je třeba napsat:{NEWLINE}
+{TAB}{POINT}IC jméno majitele vozidla{NEWLINE}
+{TAB}{POINT}SPZ vozidla, na které chcete VK udělit{NEWLINE}
+{TAB}{POINT}Důvod, proč chcete VK udělit{NEWLINE}
+{NEWLINE}
+
+#CK - Character Kill
+Jedná se o trvalé zabití a následovné smazání postavy.{NEWLINE}
+Tento typ CK musí být schválen předem **Admin Teamem** pomocí vytvořeného ticketu.{NEWLINE}
+Po CK nesmí hráč **14 dní** do stejné frakce, nebo nelegální skupiny ve které byl před CK.{NEWLINE}
+Prémiová měna zůstane všem i po CK.{NEWLINE}
+Je přísný zákaz přepisovat majetek na druhou postavu před CK. (Toto samé platí pro přepisování za účelem, že vám je po CK vrátí){NEWLINE}
+{NEWLINE}
+
+#Jail CK
+JailCK se schvaluje **governmentem přes IC ticket** (E-mail na government discordu){NEWLINE}
+Kromě schvalování zde jinak platí všechny body z “CK”{NEWLINE}
+Do ticketu se žádostí musíte sepsat **dostatečné IC informace**, kterými ho chcete usvědčit a dát mu trest na doživotní odnětí svobody.{NEWLINE}
+{NEWLINE}
+
+#Self CK
+V tomto případě si dáváte CK vy sami na svou vlastní postavu, nikoliv někdo jiný.{NEWLINE}
+Pro tento typ CK, je potřeba mít po schválení v ticketu od A-Teamu nějaký videozáznam, nebo spectate člena A-Teamu (O spectate si zažádáte buď přímo v ticketu, nebo reportem.){NEWLINE}
+Platí zde taktéž všechny body z “CK”{NEWLINE}
+Pro SelfCK je potřeba mít pádný IC důvod. (Jako důvod se nepočítá například velké množství faktur, uvolnění charslotu apod.){NEWLINE}
+{NEWLINE}
+
+#Situační CK
+Pro udělení situačního CK si musíte vytvořit report/ticket, kde musíte vložit klip z dané situace.{NEWLINE}
+Tento typ CK se schvaluje A-Teamem.{NEWLINE}
+Ve výjimečných případech toto CK může udělit A-Team sám, aniž by si někdo podal report/ticket.{NEWLINE}
+{POINT}_Například, pokud nezarpíte dostačující injuries vzhledem k vzniklé situaci._{NEWLINE}
+{NEWLINE}
+
+#Pasivní CK
+Jedná se o CK, které se uděluje v opravdu vyjímečných situacích.{NEWLINE}
+Toto CK se uděluje výhradně přes ticket a musí být opět schváleno A-Teamem.{NEWLINE}
+Jedná se například o situaci, kdy se nemůže hráč, na kterého je vypsané CK, kvůli něčemu napojit a nebo se hráč záměrně vyhýbá napojení daného charu.{NEWLINE}
+{NEWLINE}
+
+#Frakční CK
+Boss nelegální frakce může udělit každému členovi **CK bez nutnosti schválení A-Teamem**, pokud si to dokáže dostatečně obhájit.{NEWLINE}
+Jako důvody se mohou brát například: Nízká kvalita RP, Porušení interních pravidel apod.{NEWLINE}
+Před udělením si musíte zažádat o spectate přes report, nebo po udělení poslat klip do ticketu.{NEWLINE}
+Při vstupu do nelegálních frakcí každý hráč automaticky schvaluje tento způsob CK.{NEWLINE}
+{NEWLINE}
+
+#Multichar
+Je zakázáno přenášet jakýkoliv majetek, mezi svými postavami. Toto platí i za pomocí jiných hráčů. Pokud jiný hráč k tomuto pomůže je to taktéž brané jako porušení pravidla.{NEWLINE}
+V nelegální frakci můžete mít pouze jednu postavu.{NEWLINE}
+V gangu můžete mít pouze jednu postavu.{NEWLINE}
+Nemůžete mít více postav ve stejné frakci.{NEWLINE}
+Nelze mít rozvité RP za jednu vaši postavu s dvěma postavami jiného hráče a naopak.{NEWLINE}
+Vaše postavy nesmí být mezi sebou nijak provázány (např. rodinné příslušenství).{NEWLINE}
+Vaše postavy by se navzájem neměli znát.{NEWLINE}
+{NEWLINE}
+
+#GrossRP
+Jedná se o nechutný roleplay.{NEWLINE}
+Příklady GrossRP - rasismus, sexismus, mučení, znásilnění, atd…{NEWLINE}
+Pokud chcete zahájit tento typ RP, musíte se v LOOC zeptat zda všichni přítomní hráči povolují zahájení tohoto typu RP.{NEWLINE}
+Toto neplatí pokud RP akce začala na území hoodu, v tomto případě gross nelze zamítnout, ale dá se požádat o jeho zmírnění a tomuto hráči provádějící gross musí vyhovět. Pokud by, ale hráč chtěl zahájit jakékoliv sexuální RP, tak o toto si musí požádat o povolení v LOOC.{NEWLINE}
+Tento bod platí též pokud jste na sídle nelegální frakce a zároveň členem této frakce.{NEWLINE}
+Pokud do RP akce, kde bylo GrossRP schváleno přijde nový hráč, musí se s GrossRP přestat a zeptat se na povolení od tohoto nového hráče.{NEWLINE}
+Při GrossRP,  nemůžete danému hráči způsobit trvalé poškození (např. uříznutí končetin). Toto neplatí pokud máte předem schválené CK na danou postavu.{NEWLINE}
+Při CK GrossRP není automaticky schválené.{NEWLINE}
+Při GrossRP, nelze říkat N word, pokud nejste v RP akci, která se odehrává výhradně mezi členy gangu.{NEWLINE}
+Je zakázaná jakákoliv forma **nekrofilie a kanibalismu**.{NEWLINE}
+{NEWLINE}
+
+#Metagaming
+Využívání OOC informací, které jste nezískali v IC za vaši postavu.{NEWLINE}
+Nelze přenášet informace mezi vašimi postavami.{NEWLINE}
+Je zakázané poznávat osoby podle hlasu.{NEWLINE}
+Je zakázané přenášet informace získané na streamu do hry (stream sniping).{NEWLINE}
+{NEWLINE}
+
+#Powergaming
+Jedná se o dělání nadlidských schopností. {NEWLINE}
+Příklad: /me Bere policejní auto a hází ho po policajtech{NEWLINE}
+Jako powergaming se taktéž bere, pokud nesete jiného hráče na kole nebo motorce.{NEWLINE}
+Je zakázané jezdit s otevřeným kufrem/dveřmi u vozidel.{NEWLINE}
+Je zakázané za pomocí taseru střílet skrz okénka/propichovat pneumatiky.{NEWLINE}
+Mezi powergaming se bere i zneužívání kamery z třetí osoby pro vidění věcí, která vaše postava nemůže vidět.{NEWLINE}
+Pouštění zvuků, které máte možnost vytvořit mechanikou hry (např.: sirény, střelba){NEWLINE}
+{NEWLINE}
+
+#Mixing
+Komunikace odkazující na OOC.{NEWLINE}
+Používání OOC výrazů v IC.{NEWLINE}
+Příklady: piškord, sval mezerník, bohové, kouzelníci, banánové ostrovy, …{NEWLINE}
+Je zakázané používat vaší OOC přezdívku v IC.{NEWLINE}
+{NEWLINE}
+
+#NonRP injuries
+Nedostatečné RP injuries k vzniknuté situaci.{NEWLINE}
+Střelné zranění se erpí až po ukončení přestřelky.{NEWLINE}
+Pokud vás zabije střelná zbraň nemůžete si erpit zranění typu: “/do všechny kulky trefily vestu”.{NEWLINE}
+{NEWLINE}
+
+#NonRP driving
+Řízení vozidla způsobem, které je nemožné v realitě.{NEWLINE}
+Příklady: _Ježdění bez pneumatik, přejíždění kolejí s nízkými vozidly, jízda s cestní motorkou v terénu,…_{NEWLINE}
+{NEWLINE}
+
+#PassiveRP
+Je nutné předpokládat, že na místech se nacházejí místní i když nejdou vidět jako NPC.{NEWLINE}
+Los Santos je město ve kterém žije přes 10 milionů obyvatel a proto musíte předpokládat s velkým zalidněním na většině míst města.{NEWLINE}
+Je zakázané zneužívat passiveRP ve svůj prospěch (např.: uplácení místních SP).{NEWLINE}
+Pokud se respawnete na EMS se střelnými/bodnými zraněními musíte napsat na SP (State police) jako místní, že přivezli osobu se střelnými/bodnými poraněními.{NEWLINE}
+Pokud po 15 minutách nepřijde žádný člen SP, můžete odejít z EMS.{NEWLINE}
+Toto platí taktéž pokud se respawnete na EMS s dlouhou zbraní.{NEWLINE}
+Na území hoodu PassiveRP neplatí.{NEWLINE}
+{NEWLINE}
+
+#Combatlog
+Je zakázané se odpojit z probíhající RP akce.{NEWLINE}
+Pokud proběhne restart/pád serveru je nutné se napojit zpátky a pokračovat v RP akci{NEWLINE}
+Po skončení nelegální RP akce, se můžete odpojit až po 20 minutách, z důvodu možného navazujícího RP.{NEWLINE}
+Pokud musíte danou RP akci odpojit/nemáte možnost se napojit zpět do RP akce jste povinni, napsat A-teamu do /report, na discord do report roomky a nebo ticket.{NEWLINE}
+{NEWLINE}
+
+#Combat comeback
+Po smrti/zaerpených zraněních se nesmí hráč vrátit do stejné RP akce, kde obdržel tyto zranění.{NEWLINE}
+Je zakázáno během RP akce odejít si nakoupit věci do obchodu, vytáhnout si zde nové vozidla a brát si z něj věci, jít domů/frakční sídlo a brát si zde věci a vrátit se do RP akce.{NEWLINE}
+{NEWLINE}
+
+#Frakční discord
+Pokud chcete využívat vlastní discord pro vaši frakci/skupinku a využívat zde IC komunikaci musíte splňovat tyto podmínky:{NEWLINE}
+Mít minimálně 2 členy A-teamu na discordu.{NEWLINE}
+Majitele discordu přepsat na člena A-teamu, který má alespoň roli “senior admin”.{NEWLINE}
+Je zakázáno vyhazovat/banovat členy A-teamu.{NEWLINE}
+Pokud by podmínky nebyly splněny je jakákoliv IC komunikace braná jako metagaming.{NEWLINE}
+{NEWLINE}
+
+#Korupce
+Pokud chcete být korupční člen státních složek, musíte mít korupci předem schválenou v ticketu od A-teamu.{NEWLINE}
+{NEWLINE}
+
+#Advertising
+Je zakázáno propagovat jiné servery, ať už na discordu nebo in game.{NEWLINE}
+{NEWLINE}
+
+#Trashtalking
+Je zakázáno trashtalkovat, urážet jakéhokoliv člena LSRP komunity.{NEWLINE}
+Za trashtalking se považuje i chování v LOOC, soukromých zprávách a jiných komunikačních prostředcích.{NEWLINE}
+Je zakázáno svým chováním poškozovat dobré jméno LSRP projektu a jeho komunity.{NEWLINE}
+Je zakázáno vytvářet jakékoliv gify, memes, videa, atd…, které by mohly urážet členy komunity LSRP.{NEWLINE}
+{NEWLINE}
+
+#Trolling
+Je zakázané úmyslně hrát na hraně pravidel a využívat jejich skulin.{NEWLINE}
+Je zakázané úmyslně dělat RP, které by mohlo znehodnotit RP ostatních hráčů.{NEWLINE}
+RP, které kazí požitek z RP dalším členům komunity.{NEWLINE}
+{NEWLINE}
+
+#Bugy
+Pokud naleznete bug, který vás zvýhodní jste povinni ho nahlásit A-teamu.{NEWLINE}
+Pokud se vám stane bug, který vás nezvýhodňuje jste povinni ho erpit.{NEWLINE}
+Je zakázáno používání bugů pro procházení skrz textury.{NEWLINE}
+{NEWLINE}
+
+#Krádeže
+Je zakázané brát passivní rukojmí.{NEWLINE}
+Je zakázané se OOC domlouvat na braní rukojmích.{NEWLINE}
+Je zakázané nutit hráče přepisovat peníze z účtu/majetek.{NEWLINE}
+{NEWLINE}
+
+#Inventory
+Všechny předměty co má osoba u sebe má u sebe.{NEWLINE}
+{TAB}Tento bod neplatí, pokud vám státní složka zabaví předměty v CPZ (mohou vám věci sebrat pouze “passivně” a poté vám je “passivně” navrátit.){NEWLINE}
+Není možné erpit předměty, které u sebe nemáte (platí i pro doklady).{NEWLINE}
+Je zakázané erpit, že věc, kterou máte u sebe je schována například v kaslíku u auta.{NEWLINE}
+Můžete erpit, že věci někam u sebe schováváte a tím i udělat složitější jejich nalezení při prohledávání.{NEWLINE}
+{NEWLINE}
+
+#PVP packy
+Můžete používat packy, která slouží ke zvýšení FPS.{NEWLINE}
+Je zakázené používat packy, které vás mají zvýhodnit oproti ostatním hráčům.{NEWLINE}
+**Příklady:** tracery u střelby, nobush, snížená vegetace, vypnutý cyklus den/noc, vypnuté počasí, killfx, která vám zvýrazňují hráče, obecné zvýrazňování hráčů, vypnutá voda, atd…{NEWLINE}
+{NEWLINE}
+
+#Oblečení státních složek
+Je zakázáno nosit oblečení státních složek, pokud jste je IC nezískali a nemáte předem schválené jeho nošení v ticketu od A-teamu.{NEWLINE}
+
+#Cop baiting
+Je zakázané úmyslně provokovat členy státních složek.{NEWLINE}
+Je zakázané bezdůvodně střílet za účelem nalákání státních složek.{NEWLINE}
+Zakázané neustále psaní/volání státním složkám.{NEWLINE}
+{NEWLINE}
+
+#Water evading
+Je zakázáno unikání přes otevřené moře.{NEWLINE}
+{NEWLINE}
+
+#Hacking
+V rámcí RP je nemožné dělat ze sebe hackera a hackovat jakékoliv předměty.{NEWLINE}
+Je zakázené erpit GPS lokátor, pokud ho fyzicky nemáte u sebe nebo nejste člen státní složky.{NEWLINE}
+Státní složky se nemohou přes místní dostávat do telefonu/databáze jiných hráčů.{NEWLINE}
+{NEWLINE}
+
+#Asspulling
+Vytahování velkých předmětů bez řádného RP.{NEWLINE}
+Neplatí pokud vycházíte z vozidla (kromě motorky a kola).{NEWLINE}
+{NEWLINE}
+
+#Cheating
+Je zakázáné používat jakékoliv programy/soubory třetích stran pro své zvýhodnění.{NEWLINE}
+Příklady: Upravené hitboxy hráčů, upravený DMG zbraní, mod menu, atd…{NEWLINE}
+{NEWLINE}
+
+#Bindování
+Je zakázané bindování RP injuries.{NEWLINE}
+Je zakázené bindování animací a jeho zneužívání během RP akcí.{NEWLINE}
+{NEWLINE}
+
+#Bunnyhopping
+Je zakázené skákat při chůzy/na kole pro své zrychlení.{NEWLINE}
+{NEWLINE}
