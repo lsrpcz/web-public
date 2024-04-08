@@ -64,12 +64,12 @@ Jestli nejste majitel psa, nebo s ním nemáte už nějakou dlouhodobou interakc
 ## Jail FearRP
 Musíte rpit strach z toho, že vás pošlou na dlouhou dobu do vězení.
 Například:
-  - _15 let je opravdu hodně velká doba a nesmíte to brát tak, že je to jen pár minut._
+  - <em>15 let je opravdu hodně velká doba a nesmíte to brát tak, že je to jen pár minut.</em>
 
 ## Job FearRP
 Musíte rpit strach z toho, že pokud porušíte nějaká interní pravidla nebo kodex ve své práci, tak že o tu práci můžete přijít.
 Například:
-  - _V přijímání do práce máte jasně nařízeno, že musíte mít čistý trestní rejstřík, tudíž abyste si práci udrželi, tak byste měli rpit tak, abyste se vyhnuli porušení zákonů na úrovni například odnětí svobody apod._
+  - <em>V přijímání do práce máte jasně nařízeno, že musíte mít čistý trestní rejstřík, tudíž abyste si práci udrželi, tak byste měli rpit tak, abyste se vyhnuli porušení zákonů na úrovni například odnětí svobody apod.</em>
   
 # VDM - Vehicle Deathmach
 Bezdůvodné vrážení do hráčů, aut a objektů.
@@ -100,15 +100,15 @@ Do ticketu je třeba napsat:
 
 # CK - Character Kill
 Jedná se o trvalé zabití a následovné smazání postavy.
-Tento typ CK musí být schválen předem **Admin Teamem** pomocí vytvořeného ticketu.
-Po CK nesmí hráč **14 dní** do stejné frakce, nebo nelegální skupiny ve které byl před CK.
+Tento typ CK musí být schválen předem <br>Admin Teamem</br> pomocí vytvořeného ticketu.
+Po CK nesmí hráč <br>14 dní</br> do stejné frakce, nebo nelegální skupiny ve které byl před CK.
 Prémiová měna zůstane všem i po CK.
 Je přísný zákaz přepisovat majetek na druhou postavu před CK. (Toto samé platí pro přepisování za účelem, že vám je po CK vrátí)
 
 # Jail CK
-JailCK se schvaluje **governmentem přes IC ticket** (E-mail na government discordu)
+JailCK se schvaluje <br>governmentem přes IC ticket</br> (E-mail na government discordu)
 Kromě schvalování zde jinak platí všechny body z “CK”
-Do ticketu se žádostí musíte sepsat **dostatečné IC informace**, kterými ho chcete usvědčit a dát mu trest na doživotní odnětí svobody.
+Do ticketu se žádostí musíte sepsat <br>dostatečné IC informace</br>, kterými ho chcete usvědčit a dát mu trest na doživotní odnětí svobody.
 
 # Self CK
 V tomto případě si dáváte CK vy sami na svou vlastní postavu, nikoliv někdo jiný.
@@ -120,7 +120,7 @@ Pro SelfCK je potřeba mít pádný IC důvod. (Jako důvod se nepočítá např
 Pro udělení situačního CK si musíte vytvořit report/ticket, kde musíte vložit klip z dané situace.
 Tento typ CK se schvaluje A-Teamem.
 Ve výjimečných případech toto CK může udělit A-Team sám, aniž by si někdo podal report/ticket.
-- _Například, pokud nezarpíte dostačující injuries vzhledem k vzniklé situaci._
+- <em>Například, pokud nezarpíte dostačující injuries vzhledem k vzniklé situaci.</em>
 
 # Pasivní CK
 Jedná se o CK, které se uděluje v opravdu vyjímečných situacích.
@@ -128,7 +128,7 @@ Toto CK se uděluje výhradně přes ticket a musí být opět schváleno A-Team
 Jedná se například o situaci, kdy se nemůže hráč, na kterého je vypsané CK, kvůli něčemu napojit a nebo se hráč záměrně vyhýbá napojení daného charu.
 
 # Frakční CK
-Boss nelegální frakce může udělit každému členovi **CK bez nutnosti schválení A-Teamem**, pokud si to dokáže dostatečně obhájit.
+Boss nelegální frakce může udělit každému členovi <br>CK bez nutnosti schválení A-Teamem</br>, pokud si to dokáže dostatečně obhájit.
 Jako důvody se mohou brát například: Nízká kvalita RP, Porušení interních pravidel apod.
 Před udělením si musíte zažádat o spectate přes report, nebo po udělení poslat klip do ticketu.
 Při vstupu do nelegálních frakcí každý hráč automaticky schvaluje tento způsob CK.
@@ -152,7 +152,7 @@ Pokud do RP akce, kde bylo GrossRP schváleno přijde nový hráč, musí se s G
 Při GrossRP,  nemůžete danému hráči způsobit trvalé poškození (např. uříznutí končetin). Toto neplatí pokud máte předem schválené CK na danou postavu.
 Při CK GrossRP není automaticky schválené.
 Při GrossRP, nelze říkat N word, pokud nejste v RP akci, která se odehrává výhradně mezi členy gangu.
-Je zakázaná jakákoliv forma **nekrofilie a kanibalismu**.
+Je zakázaná jakákoliv forma <br>nekrofilie a kanibalismu</br>.
 
 # Metagaming
 Využívání OOC informací, které jste nezískali v IC za vaši postavu.
@@ -182,7 +182,7 @@ Pokud vás zabije střelná zbraň nemůžete si erpit zranění typu: “/do v�
 
 # NonRP driving
 Řízení vozidla způsobem, které je nemožné v realitě.
-Příklady: _Ježdění bez pneumatik, přejíždění kolejí s nízkými vozidly, jízda s cestní motorkou v terénu,…_
+Příklady: <em>Ježdění bez pneumatik, přejíždění kolejí s nízkými vozidly, jízda s cestní motorkou v terénu,…</em>
 
 # PassiveRP
 Je nutné předpokládat, že na místech se nacházejí místní i když nejdou vidět jako NPC.
@@ -249,7 +249,7 @@ Můžete erpit, že věci někam u sebe schováváte a tím i udělat složitěj
 # PVP packy
 Můžete používat packy, která slouží ke zvýšení FPS.
 Je zakázené používat packy, které vás mají zvýhodnit oproti ostatním hráčům.
-**Příklady:** nobush, snížená vegetace, vypnutý cyklus den/noc, vypnuté počasí, killfx, která vám zvýrazňují hráče, obecné zvýrazňování hráčů, vypnutá voda, atd…
+<br>Příklady:</br> nobush, snížená vegetace, vypnutý cyklus den/noc, vypnuté počasí, killfx, která vám zvýrazňují hráče, obecné zvýrazňování hráčů, vypnutá voda, atd…
 
 
 # Oblečení státních složek
