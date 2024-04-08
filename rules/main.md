@@ -100,15 +100,15 @@ Do ticketu je třeba napsat:
 
 # CK - Character Kill
 Jedná se o trvalé zabití a následovné smazání postavy.
-Tento typ CK musí být schválen předem <br>Admin Teamem</br> pomocí vytvořeného ticketu.
-Po CK nesmí hráč <br>14 dní</br> do stejné frakce, nebo nelegální skupiny ve které byl před CK.
+Tento typ CK musí být schválen předem <b>Admin Teamem</b> pomocí vytvořeného ticketu.
+Po CK nesmí hráč <b>14 dní</b> do stejné frakce, nebo nelegální skupiny ve které byl před CK.
 Prémiová měna zůstane všem i po CK.
 Je přísný zákaz přepisovat majetek na druhou postavu před CK. (Toto samé platí pro přepisování za účelem, že vám je po CK vrátí)
 
 # Jail CK
-JailCK se schvaluje <br>governmentem přes IC ticket</br> (E-mail na government discordu)
+JailCK se schvaluje <b>governmentem přes IC ticket</b> (E-mail na government discordu)
 Kromě schvalování zde jinak platí všechny body z “CK”
-Do ticketu se žádostí musíte sepsat <br>dostatečné IC informace</br>, kterými ho chcete usvědčit a dát mu trest na doživotní odnětí svobody.
+Do ticketu se žádostí musíte sepsat <b>dostatečné IC informace</b>, kterými ho chcete usvědčit a dát mu trest na doživotní odnětí svobody.
 
 # Self CK
 V tomto případě si dáváte CK vy sami na svou vlastní postavu, nikoliv někdo jiný.
@@ -128,7 +128,7 @@ Toto CK se uděluje výhradně přes ticket a musí být opět schváleno A-Team
 Jedná se například o situaci, kdy se nemůže hráč, na kterého je vypsané CK, kvůli něčemu napojit a nebo se hráč záměrně vyhýbá napojení daného charu.
 
 # Frakční CK
-Boss nelegální frakce může udělit každému členovi <br>CK bez nutnosti schválení A-Teamem</br>, pokud si to dokáže dostatečně obhájit.
+Boss nelegální frakce může udělit každému členovi <b>CK bez nutnosti schválení A-Teamem</b>, pokud si to dokáže dostatečně obhájit.
 Jako důvody se mohou brát například: Nízká kvalita RP, Porušení interních pravidel apod.
 Před udělením si musíte zažádat o spectate přes report, nebo po udělení poslat klip do ticketu.
 Při vstupu do nelegálních frakcí každý hráč automaticky schvaluje tento způsob CK.
@@ -152,7 +152,7 @@ Pokud do RP akce, kde bylo GrossRP schváleno přijde nový hráč, musí se s G
 Při GrossRP,  nemůžete danému hráči způsobit trvalé poškození (např. uříznutí končetin). Toto neplatí pokud máte předem schválené CK na danou postavu.
 Při CK GrossRP není automaticky schválené.
 Při GrossRP, nelze říkat N word, pokud nejste v RP akci, která se odehrává výhradně mezi členy gangu.
-Je zakázaná jakákoliv forma <br>nekrofilie a kanibalismu</br>.
+Je zakázaná jakákoliv forma <b>nekrofilie a kanibalismu</b>.
 
 # Metagaming
 Využívání OOC informací, které jste nezískali v IC za vaši postavu.
@@ -249,7 +249,7 @@ Můžete erpit, že věci někam u sebe schováváte a tím i udělat složitěj
 # PVP packy
 Můžete používat packy, která slouží ke zvýšení FPS.
 Je zakázené používat packy, které vás mají zvýhodnit oproti ostatním hráčům.
-<br>Příklady:</br> nobush, snížená vegetace, vypnutý cyklus den/noc, vypnuté počasí, killfx, která vám zvýrazňují hráče, obecné zvýrazňování hráčů, vypnutá voda, atd…
+<b>Příklady:</b> nobush, snížená vegetace, vypnutý cyklus den/noc, vypnuté počasí, killfx, která vám zvýrazňují hráče, obecné zvýrazňování hráčů, vypnutá voda, atd…
 
 
 # Oblečení státních složek
