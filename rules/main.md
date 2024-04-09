@@ -1,13 +1,13 @@
 # Admin Team	
-Je zakázáno psát členům AT do soukromých zpráv, pokud vám k tomu nedají svolení.
-Je zakázáno rozesílat komunikaci s AT (reporty/tickety/dms).
-Musíte rešpektovat rozhodnutí AT.
-Rozhodnutí AT je konečné.
+- Je zakázáno psát členům AT do soukromých zpráv, pokud vám k tomu nedají svolení.
+- Je zakázáno rozesílat komunikaci s AT (reporty/tickety/dms).
+- Musíte rešpektovat rozhodnutí AT.
+- Rozhodnutí AT je konečné.
 
 
 # RP - RolePlay
 
-Hraní za fiktivní postavu ve virtuálním světě, kde si hráč vytváří vlastní příběh, reaguje na situace jako ve skutečném světě.
+- Hraní za fiktivní postavu ve virtuálním světě, kde si hráč vytváří vlastní příběh, reaguje na situace jako ve skutečném světě.
 
 # Lore
 
@@ -22,89 +22,89 @@ Po příchodu do LS (součastností hráče) se lore mění tím, co v RP proži
 Je zakázené používat České nebo Slovenské jména.
 
 Za každé situace, se hráč musí řídit svým počátečním lorem své postavy + tím co prožil od příchodu do LS.
-<em>(Například když jste lorem člen nějakého gangu, tak nedává moc smysl abyste zničehonic byli členem státních složek - je však možnost se tam rpčkově dopracovat, pokud to bude dávat smysl.)</em>
+    <em>(Například když jste lorem člen nějakého gangu, tak nedává moc smysl abyste zničehonic byli členem státních složek - je však možnost se tam rpčkově dopracovat, pokud to bude dávat smysl.)</em>
 
 
 # IC - In Character
-Vše, co se odehrává za vaši postavu ve hře během RP.
+- Vše, co se odehrává za vaši postavu ve hře během RP.
 
-Řadí se sem taktéž veškeré roomky, které jsou na discordu buď v IC sekci, nebo se vyloženě jmenují “IC-<em>název roomky</em>”.
+- Řadí se sem taktéž veškeré roomky, které jsou na discordu buď v IC sekci, nebo se vyloženě jmenují “IC-<em>název roomky</em>”.
 
 # OOC - Out Of Character
-Vše, co se odehrává mimo hru/RP.
-Hráči smějí mluvit OOC pouze když má nějaký člen A-Teamu tag, nebo když je vysloveně vyzve.
+- Vše, co se odehrává mimo hru/RP.
+- Hráči smějí mluvit OOC pouze když má nějaký člen A-Teamu tag, nebo když je vysloveně vyzve.
 
 # /me
-Příkaz, kterým nahrazujete animaci, kterou nelze provést přímo ve hře.
-<b>Například:</b>
+- Příkaz, kterým nahrazujete animaci, kterou nelze provést přímo ve hře.
+    <b>Například:</b>
   - <em>/me drbe se</em>
   - <em>/me podepisuje dokument</em>
   - <em>/me kontroluje stav</em>
 
 # /do
-Příkaz, který popisuje vykonání činnosti, kdy se může očekávat reakce od hráče.
+- Příkaz, který popisuje vykonání činnosti, kdy se může očekávat reakce od hráče.
   - <em>“/do Vidí, že se osoba potí?” </em>
   - <em>reakce bude “/do ano” nebo “/do ne", případně "/try”</em>
 
-Slouží zároveň na popisování okolí nebo předmětu.
+- Slouží zároveň na popisování okolí nebo předmětu.
   - <em>“/do Na stole je leží smlouva a pero.”</em>
 
-Do tohoto příkazu je zakázáno lhát a ovlivňovat RP ostatních hráčů.
+- Do tohoto příkazu je zakázáno lhát a ovlivňovat RP ostatních hráčů.
   - <em>“/do Pán vedle mě pomalu ztrácí životní funkce”</em>
 
 # NVL - Not Valuing your Life
-Musíte si vážit svého života a bát se o něj.
-Když na vás někdo míří zbraní, bojíte se o svůj život a tím pádem budete poslouchat jeho pokyny (pozor na pravidlo grossRP)
+- Musíte si vážit svého života a bát se o něj.
+- Když na vás někdo míří zbraní, bojíte se o svůj život a tím pádem budete poslouchat jeho pokyny (pozor na pravidlo grossRP)
 
 <b>Například:</b>
   - <em>Když na vás někdo míří zbraní a jste například ve vozidle/na motorce, tak byste neměli začít ujíždět, protože by vás mohl trefit a postřelit vás.</em>
   - <em>Nevytháhnete zbraň a nezačnete na něj střílet</em>
 
-Pokud se někde střílí, <b>neznámená</b> to automaticky, že tam půjdete, naopak, budete se snažit tomu místu vyhýbat, pokud se vás to netýká.
+- Pokud se někde střílí, <b>neznámená</b> to automaticky, že tam půjdete, naopak, budete se snažit tomu místu vyhýbat, pokud se vás to netýká.
 
 # FearRP
-Jedná se o hraní strachu v situacích, kde vám může být nějakým ublíženo. 
+- Jedná se o hraní strachu v situacích, kde vám může být nějakým ublíženo. 
 
 ## Dog FearRP
-Jestli nejste majitel psa, nebo s ním nemáte už nějakou dlouhodobou interakci, kde ho znáte, tak byste z něho měli mít strach, že by vás mohl nějakým způsobem pokousat, toto pravidlo platí zejména u <b>K-9</b>.
+- Jestli nejste majitel psa, nebo s ním nemáte už nějakou dlouhodobou interakci, kde ho znáte, tak byste z něho měli mít strach, že by vás mohl nějakým způsobem pokousat, toto pravidlo platí zejména u <b>K-9</b>.
 
 ## Jail FearRP
-Musíte rpit strach z toho, že vás pošlou na dlouhou dobu do vězení.
-Například:
+- Musíte rpit strach z toho, že vás pošlou na dlouhou dobu do vězení.
+    Například:
   - <em>15 let je opravdu hodně velká doba a nesmíte to brát tak, že je to jen pár minut.</em>
 
 ## Job FearRP
-Musíte rpit strach z toho, že pokud porušíte nějaká interní pravidla nebo kodex ve své práci, tak že o tu práci můžete přijít.
-Například:
+- Musíte rpit strach z toho, že pokud porušíte nějaká interní pravidla nebo kodex ve své práci, tak že o tu práci můžete přijít.
+    Například:
   - <em>V přijímání do práce máte jasně nařízeno, že musíte mít čistý trestní rejstřík, tudíž abyste si práci udrželi, tak byste měli rpit tak, abyste se vyhnuli porušení zákonů na úrovni například odnětí svobody apod.</em>
 
 
 # Advertising
-Je zakázáno <b>propagovat jiné servery</b>, ať už na discordu nebo in game.
+- Je zakázáno <b>propagovat jiné servery</b>, ať už na discordu nebo in game.
 
 # VDM - Vehicle Deathmach
-Bezdůvodné vrážení do hráčů, aut a objektů.
-Auto lze použít jako zbraň pouze v případě, že vám jde o život, nebo pokud po vás/vašemu příteli někdo střílí.
+- Bezdůvodné vrážení do hráčů, aut a objektů.
+- Auto lze použít jako zbraň pouze v případě, že vám jde o život, nebo pokud po vás/vašemu příteli někdo střílí.
 
 # KOS - Kill On Sight
-Bezdůvodné zabití nějakého hráče, bez dostatečné předešlé RP akce. 
+- Bezdůvodné zabití nějakého hráče, bez dostatečné předešlé RP akce. 
 
 # RDM - Random Deathmach
-Bezdůvodné útočení na jiné hráče/ničení hráčům majetek. (Platí to i pro střelbu)
-Zabití bez opodstatněného RP důvodu.
-Když vás někdo praští/urazí, není to důvod ho zabít.
+- Bezdůvodné útočení na jiné hráče/ničení hráčům majetek. (Platí to i pro střelbu)
+- Zabití bez opodstatněného RP důvodu.
+- Když vás někdo praští/urazí, není to důvod ho zabít.
   
 # VK - Vehicle Kill
-Trvalé poškození vozidla (vybouchnutí, utopení etc.)
-Rozdělujeme na 2 způsoby
+- Trvalé poškození vozidla (vybouchnutí, utopení etc.)
+- Rozdělujeme na 2 způsoby
 
-## Situační 
-Jedná se o situaci, když je rozbito vozidlo takovým způsobem, že je nemožná oprava.
-Je potřeba si napsat report/ založit ticket a doložit klip z celé situace.
+## Situační VK
+- Jedná se o situaci, když je rozbito vozidlo takovým způsobem, že je nemožná oprava.
+- Je potřeba si napsat report/ založit ticket a doložit klip z celé situace.
 
 ## Klasické (cílené) VK
-Jedná se o VK, které je cílené na nějaké vozidlo hráče, musí být předem schváleno členem Admin Teamu.
-<b>Do ticketu je třeba napsat:</b>
+- Jedná se o VK, které je cílené na nějaké vozidlo hráče, musí být předem schváleno členem Admin Teamu.
+    <b>Do ticketu je třeba napsat:</b>
   1. IC jméno majitele vozidla
   2. SPZ vozidla, na které chcete VK udělit
   3. Důvod, proč chcete VK udělit
@@ -131,7 +131,7 @@ Jedná se o VK, které je cílené na nějaké vozidlo hráče, musí být před
 - Pro udělení situačního CK si musíte vytvořit report/ticket, kde musíte vložit klip z dané situace.
 - Tento typ CK se schvaluje A-Teamem.
 - Ve výjimečných případech toto CK může udělit A-Team sám, aniž by si někdo podal report/ticket.
-* <em>Například, pokud nezarpíte dostačující injuries vzhledem k vzniklé situaci.</em>
+      <em>Například, pokud nezarpíte dostačující injuries vzhledem k vzniklé situaci.</em>
 
 # Pasivní CK
 - Jedná se o CK, které se uděluje v opravdu vyjímečných situacích.
