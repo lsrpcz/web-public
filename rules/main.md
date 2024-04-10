@@ -1,8 +1,8 @@
 # Admin Team	
-- Je zakázáno psát členům AT do soukromých zpráv, pokud vám k tomu nedají svolení.
-- Je zakázáno rozesílat komunikaci s AT (reporty/tickety/dms).
-- Musíte rešpektovat rozhodnutí AT.
-- Rozhodnutí AT je konečné.
+• Je zakázáno psát členům AT do soukromých zpráv, pokud vám k tomu nedají svolení.
+• Je zakázáno rozesílat komunikaci s AT (reporty/tickety/dms).
+• Musíte rešpektovat rozhodnutí AT.
+• Rozhodnutí AT je konečné.
 
 
 # RP - RolePlay
