@@ -54,16 +54,15 @@
 
 # NVL - Not Valuing your Life
 • Musíte si vážit svého života a bát se o něj.
+• Pokud se někde střílí, <b>neznámená</b> to automaticky, že tam půjdete, naopak, budete se snažit tomu místu vyhýbat, pokud se vás to netýká.
 • Když na vás někdo míří zbraní, bojíte se o svůj život a tím pádem budete poslouchat jeho pokyny (pozor na pravidlo grossRP)
 
 <b>Například:</b>
   - <em>Když na vás někdo míří zbraní a jste například ve vozidle/na motorce, tak byste neměli začít ujíždět, protože by vás mohl trefit a postřelit vás.</em>
   - <em>Nevytháhnete zbraň a nezačnete na něj střílet</em>
 
-• Pokud se někde střílí, <b>neznámená</b> to automaticky, že tam půjdete, naopak, budete se snažit tomu místu vyhýbat, pokud se vás to netýká.
-
 # FearRP
-• Jedná se o hraní strachu v situacích, kde vám může být nějakým ublíženo. 
+• Jedná se o hraní strachu v situacích, kde vám může být nějakým způsobem ublíženo. 
 
 ## Dog FearRP
 • Jestli nejste majitel psa, nebo s ním nemáte už nějakou dlouhodobou interakci, kde ho znáte, tak byste z něho měli mít strach, že by vás mohl nějakým způsobem pokousat, toto pravidlo platí zejména u <b>K-9</b>.
